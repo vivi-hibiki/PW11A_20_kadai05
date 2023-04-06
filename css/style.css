@@ -907,3 +907,9 @@ height:300px;
 .swiper-wrapper{
   height: 100%;
 }
+
+svg:not(:root).svg-inline--fa {
+  overflow: visible;
+  margin-left: 2%;
+  font-size: 1vw;
+}
